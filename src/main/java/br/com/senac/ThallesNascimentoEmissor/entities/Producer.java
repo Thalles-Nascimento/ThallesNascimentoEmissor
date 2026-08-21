@@ -12,7 +12,7 @@ public class Producer implements Serializable {
         return nameUser;
     }
 
-    public void setnameUser(String nameUser) {
+    public void setNameUser(String nameUser) {
         this.nameUser = nameUser;
     }
 
